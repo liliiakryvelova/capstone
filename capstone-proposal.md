@@ -16,3 +16,4 @@ You can use Model Builder to solve many common machine learning problems, such a
 * _Classifying images: Tag an image based on its contents._
 * _Detecting objects in an image: Detect pedestrians and bicycles at an intersection._
 * 12:31: Choose a scenario: Classifying images
+* 12:35: MB is supported for Image classification - Local CPU, Local GPU, Azure GPU

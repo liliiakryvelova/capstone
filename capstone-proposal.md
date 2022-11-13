@@ -1,4 +1,25 @@
 ### Research & Planning Log
+Name of Student: Liliia Kryvelova
+
+Name of Project: Image Classification with ML.NET and Windows Machine Learning
+
+Project's Purpose or Goal: Create an application that allows the user to upload the picture and get the response to what is on the image.
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+- Set up Model Builder;
+- Traine Model;
+- Evalue the results;
+- Add the model to the solution;
+- Create client;
+- Organize functionality for uploading images;
+- Connect the client to the server or realize utilization of the existing trained model;
+
+Language: C#;
+Tools: Microsoft Visual Studio, ML.NET Model Builder Visual Studio Extension;
+
+Already I have a trained model wich can recognize the animal on it. The next step is to create a client which should use a trained Model.
+
+
 #### Sunday, 11/06
 * 9:00: start researching ideas for the ways how to implement the project in the correct way
 * 9:32: exploring the approaches for implementing the Neural Networks
